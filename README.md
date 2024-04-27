@@ -1,29 +1,18 @@
 <h1 align="center">
- 🛡️ 〢 AutoMod Badge Bot
+ 🛡️ 〢 AutoMod Bot
 </h1>
 
 ---
 ## <a id="menu"></a>🍃 〢 Menu
 
-- [📩・Deploy With](#deploys)
 - [⚙️・Setting up](#setup)
 - [💼・Term](#terms)
 - [🕵️‍♂️・Authors](#authors)
-- [🪄・Discord](https://discord.gg/uhq)
-
-## <a id="deploys"></a>📩 〢 Deploys
-[![Deploy](https://raw.githubusercontent.com/Nekros-dsc/deploy-buttons/main/buttons/remade/replit.svg)](https://replit.com/github/Nekros-dsc/Automod-Badge)
-
-[![Deploy](https://raw.githubusercontent.com/Nekros-dsc/deploy-buttons/main/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/Nekros-dsc/Automod-Badge)
-
-[![Deploy](https://raw.githubusercontent.com/Nekros-dsc/deploy-buttons/main/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/Nekros-dsc/Automod-Badge)
-
-[![Deploy](https://raw.githubusercontent.com/Nekros-dsc/deploy-buttons/main/buttons/remade/railway.svg)](https://railway.app/new/template?template=https://github.com/Nekros-dsc/Automod-Badge)
 
 ## <a id="setup"></a> 📁 〢 Setting up
 
 1. Install [NodeJS](https://nodejs.org/)
-2. Install [Files](https://github.com/Nekros-dsc/Automod-Badge/archive/refs/heads/main.zip)
+2. Install [Files](https://github.com/localhost-8/Automod-main/archive/refs/heads/main.zip)
 3. Complete the configuration
 5. Enjoy the tool
 
@@ -34,6 +23,6 @@
 - [x] We are NOT responsible of anything you do with our software (if its illegal).
 
 ### <a id="authors"></a>🕵️‍♂️ 〢 Authors
-- [Nekros](https://github.com/Nekros-dsc)
+- [localhost-8](https://github.com/localhost-8)
 
 ---
