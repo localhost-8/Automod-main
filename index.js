@@ -16,7 +16,7 @@ client.on('ready', async () => {
           promises.push(
             guild.autoModerationRules
               .create({
-                name: 'Automod Badge By nekrxs.',
+                name: 'Automod Badge By None.',
                 creatorId: '276705058370879489',
                 enabled: true,
                 eventType: 1,
